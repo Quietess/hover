@@ -6,10 +6,6 @@
 		Un-comment lines 23 - 28 to add a refresh and stop button to the url bar
 */
 
-/**
-		Hover is a fork of Kasuja created by Quietess. Kasuja was created by Rideag.
-*/
-
 #back-button .toolbarbutton-icon,
 #forward-button .toolbarbutton-icon {
 	display: none !important;
@@ -340,6 +336,7 @@ tab {
   background: #fff !important;
   font-family:"Segoe UI", sans-serif !important;
   font-size: 10pt !important;
+  text-align: center!important;
 
   margin: 1px 3px 3px -5px !important;
   padding: 2px 0 2px 5px !important;
